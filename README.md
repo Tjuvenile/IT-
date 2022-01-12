@@ -5,13 +5,17 @@
 
 欢迎投稿，推荐或自荐文章/软件/资源，请[提交 issue](https://github.com/Tjuvenile/weekly/issues)。
 
-## 2021
+## 2022
 
-**十二月**
+**一月**
 <!-- 
 - [2021.12.06  第 1 期]()-->
 - [2022.01.10  第 4 期](https://github.com/Tjuvenile/weekly/blob/main/docs/IT大学生成长周报%20第%204%20期.md)
 - [2022.01.03  第 3 期](https://github.com/Tjuvenile/weekly/blob/main/docs/IT大学生成长周报%20第%203%20期.md)
+
+## 2021
+
+**十二月**
 - [2021.12.20  第 2 期](https://github.com/Tjuvenile/weekly/blob/main/docs/IT%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%88%90%E9%95%BF%E5%91%A8%E6%8A%A5%20%E7%AC%AC%202%20%E6%9C%9F.md) 
 - [2021.12.06  第 1 期](https://github.com/Tjuvenile/weekly/blob/main/docs/IT%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%88%90%E9%95%BF%E5%91%A8%E6%8A%A5%20%20%E7%AC%AC%201%20%E6%9C%9F.md)
 - [发刊词](https://github.com/Tjuvenile/weekly/blob/main/docs/IT%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%88%90%E9%95%BF%E5%91%A8%E6%8A%A5%20%20%E5%8F%91%E5%88%8A%E8%AF%8D.md)

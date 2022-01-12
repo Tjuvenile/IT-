@@ -260,7 +260,7 @@ jwt 的第三部分是一个签名信息，这个签证信息由三部分组成�
 
 [点此查看原文](https://mp.weixin.qq.com/s/MLb-vUrJHukSA5PqqVMvSw)
 
-**1、避免使用select ***
+**1、避免使用select**
 
 在查询的时候，只查需要用到的列。
 

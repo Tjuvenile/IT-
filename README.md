@@ -7,6 +7,10 @@
 
 ## 2022
 
+**三月**
+
+- [2022.03.06  第 8 期](https://github.com/Tjuvenile/weekly/blob/main/docs/IT大学生成长周报%20第%208%20期.md)
+
 **一月**
 
 - [2022.01.30  第 7 期](https://github.com/Tjuvenile/weekly/blob/main/docs/IT大学生成长周报%20第%207%20期.md)
